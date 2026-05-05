@@ -9,4 +9,8 @@
  * password: "",
  * phone: "",
  * })
+ * 
+ * 5. uncontrolled using useRef
+ * 
+ * 6. Hook Form
  */
